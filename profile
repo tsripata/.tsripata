@@ -2,6 +2,7 @@
 alias his="history"
 alias h="history"
 alias p="python"
+alias p3="python3"
 alias s="scala"
 alias g="grep"
 alias gdiff="git difftool -y"
