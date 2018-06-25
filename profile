@@ -1,3 +1,7 @@
+## Add PATH
+
+export PATH=$PATH:~/.tsripata/cmd_line_tools
+
 ## Shortcut
 alias his="history"
 alias h="history"
