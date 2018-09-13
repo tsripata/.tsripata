@@ -1,6 +1,7 @@
 ## Add PATH
 
 export PATH=$PATH:~/.tsripata/cmd_line_tools
+export PATH=$PATH:~/anaconda3/bin
 
 ## Shortcut
 alias his="history"
@@ -46,6 +47,7 @@ pypro() {
   gnome-open /tmp/pypro.$time.png
 }
 
+#PythonProfiler
 openpro() {
   graph_title="$1"
   time=`date +%s`
